@@ -1,5 +1,5 @@
 # MCP Neo4j Server
-[![smithery badge](https://smithery.ai/badge/@alanse/mcp-neo4j-server)](https://smithery.ai/server/@alanse/mcp-neo4j-server)
+[![LightNow](https://lightnow.ai/badge/io.github.da-okazaki/mcp-neo4j-server)](https://lightnow.ai/servers/io.github.da-okazaki/mcp-neo4j-server)
 
 An MCP server that provides integration between Neo4j graph database and Claude Desktop, enabling graph database operations through natural language interactions.
 
